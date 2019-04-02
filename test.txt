@@ -1,7 +1,7 @@
 Developers leave a message here
 
 Developer 1.
-message: ""
+message: "SMD"
 
 Developer 2.
 message: ""
