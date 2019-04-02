@@ -1,8 +1,8 @@
 Developers leave a message here
 
 Developer 1.
-message: "SMD"
 
+message: "SMD"
 Developer 2.
 message: ""
 
