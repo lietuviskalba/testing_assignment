@@ -1,7 +1,7 @@
 Developers leave a message here
 
 Developer 1.
-message: ""
+message: "I did a commit!"
 
 Developer 2.
 message: ""
